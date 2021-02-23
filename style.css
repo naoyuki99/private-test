@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {background-color: #000000;}
+div{background-image:url(gamdomthunderbolt.jpg);background-repeat: no-repeat;
+  background-size: cover;
+  margin:60px 0px 0px 0px;
+  height: 100vh;}
+h1 {color:#fff;font-family:"游ゴシック" font-weight: bold}
+p {font-size;20px:font-family:serif;margin-top: 60px;}
